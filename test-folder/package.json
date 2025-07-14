@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@yutoun/is-wds-npm-package-yutoun": "^1.0.0",
+    "is-wds-npm-package-yutoun": "^1.0.0"
+  }
+}
